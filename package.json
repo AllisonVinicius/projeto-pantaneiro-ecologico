@@ -1,0 +1,34 @@
+{
+  "name": "pantaneiro-ecologico",
+  "version": "1.0.0",
+  "description": "Um projeto benificente para o meio ambiente",
+  "main": "app.js",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "express-session": "^1.17.0"
+  },
+  "devDependencies": {
+    "connect-flash": "^0.1.1",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "express-session": "^1.17.0",
+    "handlebars": "^4.7.6",
+    "mongoose": "^5.11.14"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josandonas/Pantaneiro-ecologico.git"
+  },
+  "author": "Projeto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josandonas/Pantaneiro-ecologico/issues"
+  },
+  "homepage": "https://github.com/Josandonas/Pantaneiro-ecologico#readme"
+}
