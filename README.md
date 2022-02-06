@@ -34,3 +34,26 @@ Logo após clonar o repositório:
 * http://localhost:8089/admin/tutoriais/add -> adiciona um novo tutorial
 
 ```
+
+
+
+
+Pagina de Home 
+- Criado com intuito de mostrar as noticias diárias referente ao ponto de coleta e noticiais referentes ao meio ambiente
+-
+<img src="https://user-images.githubusercontent.com/39178001/152706777-81404611-2007-46ab-bcc8-4e9930722696.png" width="600" heigth="500" />
+
+Categorias das noticias incluidas page
+-
+<img src="https://user-images.githubusercontent.com/39178001/152706864-784a861a-9729-4679-b365-f71dc2e591de.png" width="600" heigth="500" />
+
+<img src="https://user-images.githubusercontent.com/39178001/152706899-d8b4d08c-9830-4ce0-b0cf-0b19e8e7f037.png" width="600" heigth="500" />
+
+Inseririr noticias
+-
+<img src="https://user-images.githubusercontent.com/39178001/152706921-9345d01d-d751-4fa2-9762-27456fdc7ce4.png" width="600" heigth="500" />
+
+Page Sobre Informações do Projeto Criado em 2019
+-
+<img src="https://user-images.githubusercontent.com/39178001/152706935-e9723362-1e4a-4bc3-887d-8f671161f3bd.png" width="600" heigth="500" />
+
