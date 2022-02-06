@@ -1,3 +1,6 @@
+O Projeto foi desenvolvimento para fundação de meio ambiente de Corumbá-ms, o intuíto era apenas mostrar informações sobre os pontos de coletas de lixo da cidade, e as noticias referentes ao meio ambiente, foi desenvolvido no projeto integrador, apenas um mvp inicial que os proximos alunos dariam continuidade e melhorias.
+
+
 
 ## Instalação
 
